@@ -25,19 +25,18 @@ This project demonstrates scalable data analysis using **Dask**, a parallel comp
 
 ## Project Structure
 
-'''
+```
 BigDataAnalytics_Project/
-├── data/
-│   └── sales_data_sample.csv           # Raw dataset (download from Kaggle)
-├── output/
-│   ├── BigDataAnalytics_Project.pdf    # Main Jupyter Notebook (PDF format)
-│   └── sales_dashboard.png             # Dashboard visualization of the data
-├── .gitignore                          # Configuration file to exclude files/folders from Git commits
-├── BigDataAnalytics_Project.ipynb      # Main Jupyter Notebook
-├── LICENSE                             # Project license
-├── requirements.txt                    # Python dependencies
-└── README.md                           # This file
-'''
+|-- data/
+|   |-- sales_data_sample.csv          # Raw dataset (download from Kaggle)
+|-- output/
+|   |-- sales_dashboard.png            # Dashboard visualization
+|-- BigDataAnalytics_Project.ipynb     # Main Jupyter Notebook
+|-- report.pdf                         # Project report and findings
+|-- slides.pptx                        # Presentation slides
+|-- requirements.txt                   # Python dependencies
+|-- README.md                          # This file
+```
 ---
 
 ## Tasks Covered
