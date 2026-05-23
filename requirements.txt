@@ -1,0 +1,10 @@
+dask[complete]
+distributed
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlxtend
+statsmodels
+psutil
