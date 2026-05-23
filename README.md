@@ -25,7 +25,8 @@ This project demonstrates scalable data analysis using **Dask**, a parallel comp
 
 ## Project Structure
 
-'''BigDataAnalytics_Project/
+'''
+BigDataAnalytics_Project/
 ├── data/
 │   └── sales_data_sample.csv           # Raw dataset (download from Kaggle)
 ├── output/
@@ -35,7 +36,8 @@ This project demonstrates scalable data analysis using **Dask**, a parallel comp
 ├── BigDataAnalytics_Project.ipynb      # Main Jupyter Notebook
 ├── LICENSE                             # Project license
 ├── requirements.txt                    # Python dependencies
-└── README.md                           # This file'''
+└── README.md                           # This file
+'''
 ---
 
 ## Tasks Covered
